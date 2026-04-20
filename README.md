@@ -42,5 +42,3 @@ Screenshots
 ![Products](./screenshots/products.png)
 
 ![Add Product](./screenshots/listitem.png)
-
-Live Demo (Add deployed link here)
